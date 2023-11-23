@@ -164,3 +164,12 @@ E E I T L T X Q V K O S C N S
 H D L I T K K R S W O H W Y P
 E K B O Q M P I Y Q P Q R B Y
 D Z S N L F V E C L A S S D C
+
+
+Checklist:
+
+[ ] Task 1
+[ ] Task 2
+[ ] Task 3
+[x] Task 4 (completed)
+[ ] Task 5
