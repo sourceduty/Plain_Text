@@ -70,6 +70,12 @@ Guitar tablature indicates the notes to be played on a guitar. Each horizontal l
 
 #
 
+#### Word Search:
+
+A word search puzzle in plain text format is a grid of letters, usually arranged in rows and columns. Each letter occupies its own space within the grid. The purpose of the puzzle is to find and circle a list of words that are hidden within this grid. These words can be placed in various orientations: horizontally (left to right or right to left), vertically (up or down), or diagonally (in any direction).
+
+#
+
 These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
 
 #
