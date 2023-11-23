@@ -1,0 +1,115 @@
++---------------------------------------+
+|                Results                |
++-------------+-------------------------+
+|             |        Contestant       |
+| Competition +-------+--------+--------+
+|             |  John | Andrea | Robert |
++-------------+-------+--------+--------+
+| Swimming    |  1:30 |   2:05 |   1:15 |
++-------------+-------+--------+--------+
+| Running     | 15:30 |  14:10 |  15:45 |
++-------------+-------+--------+--------+
+
+
+| Task            | Jan | Feb | Mar | Apr | May | Jun |
+|-----------------|-----|-----|-----|-----|-----|-----|
+| Research        | ### | ### |     |     |     |     |
+| Design          |     | ### | ### |     |     |     |
+| Development     |     |     | ### | ### | ### |     |
+| Testing         |     |     |     |     | ### | ### |
+| Implementation  |     |     |     |     |     | ### |
+
+
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+|  |  |  |  |  |
++--+--+--+--+--+
+
+
+=========Heading 1=========
+
+
+CONTENTS
+
+Chapter1 ............................... 1
+Chapter2 ............................... 14
+Chapter3 ............................... 23
+Chapter4 ............................... 43
+Chapter5 ............................... 56
+Chapter6 ............................... 75
+Chapter7 ............................... 78
+Chapter8 ............................... 92
+Chapter9 ............................... 101
+
+
+Process Flowcharts
+
+Start -> Process 1 -> Decision -> Process 2 -> End
+
+
+Categorical Organization:
+
+Fruits
+- Apple
+- Banana
+
+Vegetables
+- Carrot
+- Broccoli
+
+
+Organizational Diagram:
+
+General Manager
+|__ Operations Manager
+|   |__ Team A
+|   |__ Team B
+|__ Finance Manager
+    |__ Accounting
+    |__ Payroll
+
+
+Address book:
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else:
+
+
+Day planner:
+
+---
+Date: dd-mm-yyyy
+
+Goal for Today: [replace this with your goal]
+---
+
+07:00 - 08:00 - First morning item
+08:00 - 09:00 - Second morning item
+09:00 - 10:00 - Third morning item
+10:00 - 11:00 - Fourth morning item
+11:00 - 12:00 - Final morning item
+12:00 - 13:00 - Lunch
+13:00 - 14:00 - First afternoon item
+14:00 - 15:00 - Second afternoon item
+15:00 - 16:00 - Third afternoon item
+16:00 - 17:00 - Final afternoon item
