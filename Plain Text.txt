@@ -73,6 +73,28 @@ General Manager
     |__ Accounting
     |__ Payroll
 
+Thought Diagram:
+
+Thought Tree
+|
++-- Main Idea 1
+|   |
+|   +-- Subidea 1.1
+|   |   |
+|   |   +-- Detail 1.1.1
+|   |   |
+|   |   +-- Detail 1.1.2
+|   |
+|   +-- Subidea 1.2
+|
++-- Main Idea 2
+    |
+    +-- Subidea 2.1
+    |
+    +-- Subidea 2.2
+        |
+        +-- Detail 2.2.1
+
 
 Address book:
 Name: [person's name]
