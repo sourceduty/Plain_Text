@@ -64,6 +64,12 @@ Planning and organizing daily activities in a time-based schedule. This aids in 
 
 #
 
+#### Guitar Tabs
+
+Guitar tablature indicates the notes to be played on a guitar. Each horizontal line represents a string on the guitar, with the top line being the highest pitched string (E) and the bottom line the lowest (also E, but an octave lower). The numbers indicate the fret to be pressed down when playing that string. A "0" means the string is to be played open, without pressing any fret. This particular tab seems to be part of a melody or a riff, and would likely sound melodic and rhythmic when played.
+
+#
+
 These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
 
 #
