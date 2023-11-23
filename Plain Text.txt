@@ -145,3 +145,22 @@ G|---------|-------------|---------0-|-------0-|---------|-------------|--------
 D|---------|-------------|-----------|---------|---------|-------------|-------------|-----------|-
 A|---------|-------------|-----------|---------|---------|-------------|-------------|-----------|-
 E|---------|-------------|-----------|---------|---------|-------------|-------------|-----------|-
+
+
+Word Search:
+
+W S T C O M P U T E X T P D H
+O X D I O J F Z X L T K Z V Y
+N T X K N S Q G J T S D A K O
+I U E J S C P D S K Z A L U I
+V C W O X R Y K V Q S T G N O
+A T K B T P T Z H A T A O G E
+R N K I N Y H E S O R I R Z H
+I I T F L U O J H S I C I C U
+A I D U A V N T A S N H T O H
+B W Z N A R R A Y A G Q H R X
+L G F C W X D M Q P L F M Y Z
+E E I T L T X Q V K O S C N S
+H D L I T K K R S W O H W Y P
+E K B O Q M P I Y Q P Q R B Y
+D Z S N L F V E C L A S S D C
