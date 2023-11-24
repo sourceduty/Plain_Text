@@ -88,6 +88,12 @@ A checklist in plain text is a simple and efficient way to keep track of tasks o
 
 #
 
+#### Thermometer:
+
+A thermometer is a scientific instrument used to measure temperature. It works on the principle that substances change in some way when they are heated or cooled. In thermometers, this change is converted into a numerical value, giving us a temperature reading.
+
+#
+
 These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
 
 #
