@@ -173,3 +173,57 @@ Checklist:
 [ ] Task 3
 [x] Task 4 (completed)
 [ ] Task 5
+
+
+Block diagram:
+ _________
+|Attached |
+|Processor|_________
+|System   |        |
+ ---------         |
+                   |
+                   |                                      ___________
+ ___________       |                                     |           |
+|           |      ^                                     | Auxiliary |
+| File Store|----< <-------------------*-----------------| Data      |
+|           |                          |                 | System    |
+ -----------                           |                 |           |
+                                       |                  -----------
+                                       |
+                                       |
+                                       | AU BUS 
+                                       |
+                                       |
+ ___________                 __________|_________               ____________
+|           |               |                    |             |            |
+| Program   |   PS Bus      |      Central       |   CS Bus    | Call Store |
+| Store     |---------------|      Control       |-------------|            |
+|           |               |                    |              ------------
+ -----------                 ----------|---------              
+                                       |
+                                       | PU Bus      ___________   Data and
+                                       |            |           |  control
+                                       *------------|  I/O      |-------------
+                                       |            | Interface |       to/from
+                                       |            |           |         I/O 
+                                       |             -----------       terminals
+                                       |                  |           
+                                       |                  |
+                                       |                  |E2A Telemetry
+                                       | PU Bus           |Control
+                                       |                  |
+               Status                  |                  |
+ _________     And             ________|_______           |
+|         |    Control        |                |<----------    Pu Bus    To/From
+| Control |-------------------| Periphel       |--------------------------using
+| Panels  |                   | System         |                         system
+|         |                   | Interface      |                        peripheal
+ ---------                    |                |                              
+                              |                |  E2A Telemetry Control Inhibit
+to No. 2    Telemetry Data    |                |<----------------------\
+SCCS        And Control       |                |                        | From
+Maintenance-------------------|                |<--Office--Alarms-------|Using
+Facility                      |                |                        |System
+                              |                |<--Building--Alarms----/
+                              |                |
+                               ----------------
