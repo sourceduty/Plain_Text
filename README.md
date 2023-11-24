@@ -76,6 +76,12 @@ A word search puzzle in plain text format is a grid of letters, usually arranged
 
 #
 
+#### Block Diagram:
+
+Block diagrams describe different hierarchies and connections between individual building blocks within a system.
+
+#
+
 #### Checklist:
 
 A checklist in plain text is a simple and efficient way to keep track of tasks or items. It typically consists of a list of tasks, each preceded by a set of square brackets. The format is straightforward
