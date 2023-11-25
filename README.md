@@ -28,6 +28,8 @@ Apple II home computer from 1977 with ProDOS.
 <br>
 James Bond inspired code cracking game.
 
+Find more Sourceduty GPTs [here](https://github.com/sourceduty/ChatGPT).
+
 ***
 
 #### Competition Results Tables: 
