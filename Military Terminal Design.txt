@@ -71,3 +71,28 @@ Main Menu:
 +----------------------------------+---------+------------------------+----------------+
 
 Enter the menu code:
+
+=======================< COMMAND CENTER INTERFACE >=======================
+
+                             < DATE: 2023-11-25 >
+                     < OPERATIONAL STATUS: ACTIVE [GREEN] >
+
+--------------------------------------------------------------------------------
+|                                MAIN FRAME                                    |
+|------------------------------------------------------------------------------|
+| [ALPHA] Operations           | [BRAVO] Communications   | [CHARLIE] Navigation |
+| - Mission Briefings          | - Secure Messaging       | - Map Overlays       |
+| - Strategy Planning         | - Radio Frequencies      | - Coordinates Entry  |
+| - Personnel Management      | - Encryption Settings    | - Route Planning     |
+|------------------------------------------------------------------------------|
+| [DELTA] Logistics            | [ECHO] Intelligence      | [FOXTROT] Emergency  |
+| - Supply Inventory          | - Recon Reports          | - Distress Signals   |
+| - Transport Requests        | - Data Analysis          | - Medical Assistance |
+| - Maintenance Schedules     | - Surveillance Feeds     | - Evacuation Plans   |
+--------------------------------------------------------------------------------
+
+==========================< INITIATE SEQUENCE >==========================
+
+Choose Operation: [A/B/C/D/E/F] or type 'HELP' for assistance
+
+======================< COPYRIGHT 2023 MILITARY TECH >======================
