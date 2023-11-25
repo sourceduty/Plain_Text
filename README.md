@@ -1,12 +1,3 @@
-
-https://github.com/sourceduty/Plain_Text/assets/123030236/cd919087-20fa-4a42-9de3-6c528682f059
-
-### ChatGPT
-
-[Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
-<br>
-Plain text organization guide.
-
 ```
 _____________________________________________
 |                                           |
@@ -19,6 +10,14 @@ _____________________________________________
 |     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|
 |___________________________________________|
 ```
+
+https://github.com/sourceduty/Plain_Text/assets/123030236/cd919087-20fa-4a42-9de3-6c528682f059
+
+### ChatGPT
+
+[Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
+<br>
+Plain text organization guide.
 
 #
 
