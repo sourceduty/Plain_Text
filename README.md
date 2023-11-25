@@ -108,3 +108,5 @@ A thermometer is a scientific instrument used to measure temperature. It works o
 These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
 
 #
+
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
