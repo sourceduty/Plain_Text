@@ -13,6 +13,7 @@ _____________________________________________
 
 https://github.com/sourceduty/Plain_Text/assets/123030236/cd919087-20fa-4a42-9de3-6c528682f059
 
+***
 ### ChatGPT
 
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
@@ -105,7 +106,7 @@ A checklist in plain text is a simple and efficient way to keep track of tasks o
 
 A thermometer is a scientific instrument used to measure temperature. It works on the principle that substances change in some way when they are heated or cooled. In thermometers, this change is converted into a numerical value, giving us a temperature reading.
 
-#
+***
 
 These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
 
