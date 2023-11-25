@@ -8,6 +8,26 @@ https://github.com/sourceduty/Plain_Text/assets/123030236/cd919087-20fa-4a42-9de
 <br>
 Plain text organization guide.
 
+[Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
+<br>
+Terminal interface design guide.
+
+[Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
+<br>
+Old computer terminal simulator.
+
+[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
+<br>
+Basic notepad emulator.
+
+[Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
+<br>
+Apple II home computer from 1977 with ProDOS.
+
+[Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
+<br>
+James Bond inspired code cracking game.
+
 ***
 
 #### Competition Results Tables: 
