@@ -1,125 +1,85 @@
+__________________________________________________________________________________________________________________
+|                                                                                                                 |
+|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                     |
+|                                     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|
+|                                                                                                                 |
+|                                                    SOURCEDUTY                                                   |
+|                                                                                                                 |
+|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                     |
+|                                     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|
+|_________________________________________________________________________________________________________________|
 
-https://github.com/sourceduty/Plain_Text/assets/123030236/cd919087-20fa-4a42-9de3-6c528682f059
+[Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide) specializes in organizing and presenting information in plain text format. It can create and interpret various structured text formats such as tables, timelines, grid layouts, structured documents, flowcharts, lists, hierarchical organizations, personal information management formats, daily schedules, guitar tabs, word searches, block diagrams, thermometers, and other plain text representations.
 
-***
-### ChatGPT
+For instance, it can organize competition results into tables, layout project phases over timelines, create grid structures for information organization, structure documents with headings and chapters, depict processes with flowcharts, categorize lists, display hierarchical structures, manage personal information, schedule daily activities, notate guitar music in tablature, create word search puzzles, describe systems with block diagrams, and illustrate measurements with thermometers and custom gauges.
 
-[Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
-<br>
-Plain text organization guide.
+### Missing Details
 
-[Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
-<br>
-Terminal interface design guide.
+Compared to manual plain text design, AI-driven plain text design can automate and enhance the organization and structure of content, potentially making it more efficient and intelligently tailored to specific needs. While manual design is prized for its universal compatibility and emphasis on content clarity, AI can add layers of sophistication by analyzing content to optimize layout, predict formatting needs, and suggest improvements, albeit within the constraints of plain text's simplicity. However, this automation may not always capture the nuanced preferences or intentions of a human designer, highlighting a trade-off between the personalized touch of manual design and the efficiency and scalability offered by AI. Both approaches hold value, with the choice between them often dictated by the specific requirements and context of the task at hand.
 
-[Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
-<br>
-Old computer terminal simulator.
+<details><summary>Brushless DC Motor Diagram by Plain Text Guide</summary>
 
-[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
-<br>
-Basic notepad emulator.
+ ```
 
-[Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
-<br>
-Apple II home computer from 1977 with ProDOS.
-
-[Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
-<br>
-James Bond inspired code cracking game.
-
-Find more Sourceduty GPTs [here](https://github.com/sourceduty/ChatGPT).
-
-***
-
-#### Competition Results Tables: 
-
-Organizing sports or competition results in a table format. This method clearly displays each contestant's performance in different categories, making it easy to compare and analyze. For example, tracking times in swimming and running events for different contestants.
-
-#
-
-#### Project Management Timelines: 
-
-Laying out project phases or tasks over a timeline. This helps in tracking the progress of different stages of a project across months. It's useful in fields like research, design, development, testing, and implementation.
-
-#
-
-#### Grid Layouts: 
-
-Creating grid structures to organize information, data points, or items in a structured manner. This can be used in inventory management, scheduling, or creating forms.
-
-#
-
-#### Document Structuring: 
-
-Structuring documents with headings, chapters, and page numbers. This is particularly useful for books, reports, or any lengthy document where easy navigation is key.
-
-#
+                Brushless DC Electric Motor
+          ___________________________________
+         |                                   |
+         |             Stator                |
+         |        (with windings)            |
+         |                                   |
+         |    ___________________________    |
+         |   |                           |   |
+         |   |          Rotor            |   |
+         |   |    (with permanent        |   |
+         |   |     magnets attached)     |   |
+         |   |___________________________|   |
+         |                                   |
+         |           Electronic             |
+         |           Controller             |
+         |___________________________________|
 
 
-#### Flowcharts: 
+ ```
 
-Representing processes or workflows in a step-by-step manner using a flowchart structure. This is effective for illustrating decision-making processes, project workflows, or operational procedures.
+</details>
 
-#
+<details><summary>Brushless DC Motor Diagram by Sourceduty</summary>
 
+ ```
 
-#### Categorical Lists: 
+                  --------   
+                 |        |  
+                 |        | 
+                 |        |  ROTOR
+                 |        |  SHAFT 
+                 |        | 
+                 |        | 
+_________________|________|________________
+|                |________|                |   
+|_____________  /__________\  _____________|
+|             ||            ||             |
+|      )(     ||            ||     )(      |  
+|  ||||OO|||| ||            || ||||OO||||  |
+|  ====OO==== ||            || ====OO====  |
+|  ====OO==== ||            || ====OO====  |
+|  ====OO==== ||   BONDED   || ====OO====  |  
+|  ====OO==== ||   MAGNET   || ====OO====  |
+|  ====OO==== ||            || ====OO====  |
+|  ====OO==== ||            || ====OO====  |
+|  ||||OO|||| ||            || ||||OO||||  |
+|             ||            ||             |
+|              \\          //    STATOR    |
+|              |_|        |_|    COILS     |
+|_______________||________||_______________|
+|________________|________|________________|
+                 |        |
+                 |        |
+ \\\\\\\\\\\\\\\\|________|////////////////
+  ///////////////|___  ___|\\\\\\\\\\\\\\\\  FAN
 
-Organizing items or information categorically. This method is great for lists like groceries, classifications, and directories.
+ ```
 
-#
-
-#### Hierarchical Organization: 
-
-Displaying hierarchical structures, such as organizational charts or family trees. This helps in understanding relationships and roles within an organization or group.
-
-#
-
-#### Personal Information Management: 
-
-Storing personal information like addresses, emails, and phone numbers in a structured format. This is handy for contact management in personal or professional contexts.
-
-#
-
-#### Daily Scheduling: 
-
-Planning and organizing daily activities in a time-based schedule. This aids in time management and ensures a balanced distribution of tasks throughout the day.
-
-#
-
-#### Guitar Tabs:
-
-Guitar tablature indicates the notes to be played on a guitar. Each horizontal line represents a string on the guitar, with the top line being the highest pitched string (E) and the bottom line the lowest (also E, but an octave lower). The numbers indicate the fret to be pressed down when playing that string. A "0" means the string is to be played open, without pressing any fret. This particular tab seems to be part of a melody or a riff, and would likely sound melodic and rhythmic when played.
-
-#
-
-#### Word Search:
-
-A word search puzzle in plain text format is a grid of letters, usually arranged in rows and columns. Each letter occupies its own space within the grid. The purpose of the puzzle is to find and circle a list of words that are hidden within this grid. These words can be placed in various orientations: horizontally (left to right or right to left), vertically (up or down), or diagonally (in any direction).
-
-#
-
-#### Block Diagram:
-
-Block diagrams describe different hierarchies and connections between individual building blocks within a system.
-
-#
-
-#### Checklist:
-
-A checklist in plain text is a simple and efficient way to keep track of tasks or items. It typically consists of a list of tasks, each preceded by a set of square brackets. The format is straightforward
-
-#
-
-#### Thermometer:
-
-A thermometer is a scientific instrument used to measure temperature. It works on the principle that substances change in some way when they are heated or cooled. In thermometers, this change is converted into a numerical value, giving us a temperature reading.
+</details>
 
 ***
-
-These examples demonstrate the adaptability of plain text in organizing information efficiently across various domains.
-
-#
-
-ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
