@@ -1,3 +1,4 @@
+```
 __________________________________________________________________________________________________________________
 |                                                                                                                 |
 |>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                     |
@@ -8,6 +9,7 @@ ________________________________________________________________________________
 |>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                     |
 |                                     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|
 |_________________________________________________________________________________________________________________|
+```
 
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide) specializes in organizing and presenting information in plain text format. It can create and interpret various structured text formats such as tables, timelines, grid layouts, structured documents, flowcharts, lists, hierarchical organizations, personal information management formats, daily schedules, guitar tabs, word searches, block diagrams, thermometers, and other plain text representations.
 
