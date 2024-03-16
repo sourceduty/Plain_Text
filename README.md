@@ -48,7 +48,6 @@ Brushless DC Motor Diagram by Plain Text Guide
 Brushless DC Motor Diagram by Sourceduty
 
  ```
-
                   --------   
                  |        |  
                  |        | 
