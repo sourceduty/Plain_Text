@@ -19,7 +19,9 @@ For instance, it can organize competition results into tables, layout project ph
 
 Compared to manual plain text design, AI-driven plain text design can automate and enhance the organization and structure of content, potentially making it more efficient and intelligently tailored to specific needs. While manual design is prized for its universal compatibility and emphasis on content clarity, AI can add layers of sophistication by analyzing content to optimize layout, predict formatting needs, and suggest improvements, albeit within the constraints of plain text's simplicity. However, this automation may not always capture the nuanced preferences or intentions of a human designer, highlighting a trade-off between the personalized touch of manual design and the efficiency and scalability offered by AI. Both approaches hold value, with the choice between them often dictated by the specific requirements and context of the task at hand.
 
-<details><summary>Brushless DC Motor Diagram by Plain Text Guide</summary>
+#
+
+Brushless DC Motor Diagram by Plain Text Guide
 
  ```
 
@@ -43,9 +45,7 @@ Compared to manual plain text design, AI-driven plain text design can automate a
 
  ```
 
-</details>
-
-<details><summary>Brushless DC Motor Diagram by Sourceduty</summary>
+Brushless DC Motor Diagram by Sourceduty
 
  ```
 
@@ -80,8 +80,6 @@ _________________|________|________________
   ///////////////|___  ___|\\\\\\\\\\\\\\\\  FAN
 
  ```
-
-</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
