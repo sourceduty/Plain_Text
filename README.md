@@ -157,6 +157,8 @@ SHAFT: This is the central part that rotates, transferring mechanical power in t
 ### Related Links
 
 [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
+<br>
+[Text Templates](https://chat.openai.com/g/g-GsTxQDRxX-text-templates)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
