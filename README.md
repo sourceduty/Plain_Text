@@ -19,6 +19,12 @@ For instance, it can organize competition results into tables, layout project ph
 
 Compared to manual plain text design, AI-driven plain text design can automate and enhance the organization and structure of content, potentially making it more efficient and intelligently tailored to specific needs. While manual design is prized for its universal compatibility and emphasis on content clarity, AI can add layers of sophistication by analyzing content to optimize layout, predict formatting needs, and suggest improvements, albeit within the constraints of plain text's simplicity. However, this automation may not always capture the nuanced preferences or intentions of a human designer, highlighting a trade-off between the personalized touch of manual design and the efficiency and scalability offered by AI. Both approaches hold value, with the choice between them often dictated by the specific requirements and context of the task at hand.
 
+### ASCI Art
+
+ASCII art is a type of plain text organization, but it specifically refers to creating pictures or artistic designs using only the characters available in the ASCII character set (letters, numbers, and special symbols). This form of art ranges from simple representations to intricate and detailed images that can visually represent people, animals, or other objects.
+
+On the other hand, plain text organization encompasses a broader range of methods for structuring and presenting information in text format. This includes not only ASCII art but also tables, flowcharts, diagrams, lists, and other ways of organizing data and text to convey information clearly and efficiently in environments where graphical interfaces may be limited or impractical.
+
 #
 ### Example Usage
 
@@ -146,6 +152,11 @@ SHAFT: This is the central part that rotates, transferring mechanical power in t
 
 <br>
 </details>
+
+#
+### Related Links
+
+[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
