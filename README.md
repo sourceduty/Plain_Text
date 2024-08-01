@@ -105,7 +105,6 @@ Brushed DC Motor Diagram by Sourceduty
 
 
  ```
-
 POWER IN (+)                   POWER IN (-)
 _______________            ________________
               |            |
