@@ -156,7 +156,7 @@ SHAFT: This is the central part that rotates, transferring mechanical power in t
 <br>
 
 ```
-					               O
+                    O
  ___|>>>|___     ___| 
 |___     ___|   |___    
  ___|   |___     ___| 
@@ -171,11 +171,11 @@ SHAFT: This is the central part that rotates, transferring mechanical power in t
 |___     ___|   |___     
  ___|   |___     ___|
 |___     ___|   |___    
-	|   |___     ___| 
-	|       |>>>|
-	|
-	|<<<<<<<<<<<<<<<|
-					|
+    |   |___     ___| 
+    |       |>>>|
+    |
+    |<<<<<<<<<<<<<<<|
+                    |
  ___|>>>|___     ___| 
 |___     ___|   |___    
  ___|   |___     ___| 
@@ -190,9 +190,9 @@ SHAFT: This is the central part that rotates, transferring mechanical power in t
 |___     ___|   |___     
  ___|   |___     ___|
 |___     ___|   |___    
-	|   |___     ___| 
-	|       |>>>|
-	I
+    |   |___     ___| 
+    |       |>>>|
+    I
 ```
 
 This diagram represents a radiator with a series of aligned, stacked rectangular panels. It features a symmetrical arrangement, with an arrow pointing right at both the top and bottom. The radiator consists of several horizontal sections, each with alternating filled and empty spaces, creating a repetitive structure. The arrows suggest a flow of heat or fluid through the radiator, indicating its function in distributing warmth. The pattern alternates between sections of three stacked panels and single panels, which may denote different parts or stages of the radiator. The diagram concludes with a transition in the pattern, reflecting a change or end of the radiator unit.
