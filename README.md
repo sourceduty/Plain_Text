@@ -27,7 +27,7 @@ ASCII art is a type of plain text organization, but it specifically refers to cr
 On the other hand, plain text organization encompasses a broader range of methods for structuring and presenting information in text format. This includes not only ASCII art but also tables, flowcharts, diagrams, lists, and other ways of organizing data and text to convey information clearly and efficiently in environments where graphical interfaces may be limited or impractical.
 
 #
-### Example Usage
+### Examples
 
 <details><summary>Brushless DC Motor Diagram by Plain Text Guide</summary>
 <br>
@@ -149,6 +149,53 @@ CORE: The core is typically made of ferromagnetic material and contributes to th
 STATOR MAGNETS: These are fixed magnets in the stator that create a stationary magnetic field which interacts with the rotor to produce motion in a motor, or electrical current in a generator.
 
 SHAFT: This is the central part that rotates, transferring mechanical power in the case of a motor, or being driven to generate electricity in a generator.
+
+<br>
+</details>
+<details><summary>Radiator by Sourceduty</summary>
+<br>
+
+```
+					               O
+ ___|>>>|___     ___| 
+|___     ___|   |___    
+ ___|   |___     ___| 
+|___     ___|   |___  
+ ___|   |___     ___| 
+|___     ___|   |___  
+ ___|   |___     ___| 
+|___     ___|   |___ 
+ ___|   |___     ___| 
+|___     ___|   |___ 
+ ___|   |___     ___| 
+|___     ___|   |___     
+ ___|   |___     ___|
+|___     ___|   |___    
+	|   |___     ___| 
+	|       |>>>|
+	|
+	|<<<<<<<<<<<<<<<|
+					|
+ ___|>>>|___     ___| 
+|___     ___|   |___    
+ ___|   |___     ___| 
+|___     ___|   |___  
+ ___|   |___     ___| 
+|___     ___|   |___  
+ ___|   |___     ___| 
+|___     ___|   |___ 
+ ___|   |___     ___| 
+|___     ___|   |___ 
+ ___|   |___     ___| 
+|___     ___|   |___     
+ ___|   |___     ___|
+|___     ___|   |___    
+	|   |___     ___| 
+	|       |>>>|
+	I
+```
+
+This diagram represents a radiator with a series of aligned, stacked rectangular panels. It features a symmetrical arrangement, with an arrow pointing right at both the top and bottom. The radiator consists of several horizontal sections, each with alternating filled and empty spaces, creating a repetitive structure. The arrows suggest a flow of heat or fluid through the radiator, indicating its function in distributing warmth. The pattern alternates between sections of three stacked panels and single panels, which may denote different parts or stages of the radiator. The diagram concludes with a transition in the pattern, reflecting a change or end of the radiator unit.
 
 <br>
 </details>
