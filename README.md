@@ -210,6 +210,8 @@ This diagram represents a radiator with a series of aligned, stacked rectangular
 [Architecture Diagram](https://chat.openai.com/g/g-gqbA5hlb2-architecture-diagram)
 <br>
 [Topology Organize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
