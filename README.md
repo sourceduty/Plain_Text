@@ -1,9 +1,6 @@
-```
-█████████████████████████████████████████░▒▓█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▓▒░█████████████████████████████████████████
-█████████████████████████████████████████████       SOURCEDUTY       █████████████████████████████████████████████
-█████████████████████████████████████████░▒▓█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▓▒░█████████████████████████████████████████
+![Courier](https://github.com/user-attachments/assets/6a1c5a89-b38a-41de-859a-df745a3a9e0b)
 
-```
+#
 
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide) specializes in organizing and presenting information in plain text format. It can create and interpret various structured text formats such as tables, timelines, grid layouts, structured documents, flowcharts, lists, hierarchical organizations, personal information management formats, daily schedules, guitar tabs, word searches, block diagrams, thermometers, and other plain text representations.
 
@@ -199,6 +196,15 @@ This diagram represents a radiator with a series of aligned, stacked rectangular
 
 <br>
 </details>
+
+#
+
+```
+█████████████████████████████████████████░▒▓█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▓▒░█████████████████████████████████████████
+█████████████████████████████████████████████       SOURCEDUTY       █████████████████████████████████████████████
+█████████████████████████████████████████░▒▓█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▓▒░█████████████████████████████████████████
+
+```
 
 #
 ### Related Links
